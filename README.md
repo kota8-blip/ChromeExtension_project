@@ -1,1 +1,1 @@
-# ChromeExtension_project
+# ChromeExtension_English
